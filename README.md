@@ -1,135 +1,62 @@
-# Hi there, I'm Saleck Ameine 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+<div id="header" align="center">
+
+<h1>Hey there, Saleck this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+
 </div>
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Saleck07}/count.svg" alt="Visitor's Count" />
+<br>
+
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
-## 👨‍💻 About Me
+### 💫 About Me
 
-- 🔭 I'm currently working on **Spring-Boot Medical Appointment Application**
-- 🌱 I'm currently learning **Spring-Boot**
-- 💬 Ask me about **anything related to my tech stack**
-- 📫 How to reach me: **salekamein@gmail.com**
+- 🎓 I'm a Student and Full Stack and Mobile Developer
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate with open source enthusiasts
+- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
 
-## 🛠️ Tech Stack
+<br>
 
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
 
-### 🌐 Frontend Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-       alt="bootstrap" width="40" height="40"
-       style="background-color:white; border-radius:5px; padding:5px;" />
+## 💻 Tech Stack:
+
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,php,mongodb,mysql,django,flask,spring,postman,cpp,java,py,git,docker,jenkins,github,linux&perline=11" />
 </a>
 
-</p>
-
-### 🧰 Backend Development
-<p align="left">
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
-       alt="django" width="40" height="40"
-       style="background-color:white; border-radius:5px; padding:5px;" />
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
-       alt="flask" width="40" height="40" />
-</a>
-
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
-
-### 🔧 Tools & Technologies
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="github" width="40" height="40"
-       style="background-color:white; border-radius:5px; padding:5px;" />
-</a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saleck07&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleck07&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
+<br>
+
+## 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saleck07&theme=tokyonight" alt="GitHub Streak" />
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saleck07&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saleck07&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saleck07&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saleck07&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saleck07&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Saleck07&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Saleck07&theme=radical">
+
+</div><br>
+
+# 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=Saleck07&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saleck07&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
-## 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Saleck07&color=red" alt="Total Github views" />
 
----
-<div align="center">
-  <b>Feel free to explore my repositories and don't forget to star ⭐ your favorites!</b>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
