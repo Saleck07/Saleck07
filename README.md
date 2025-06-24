@@ -46,12 +46,6 @@
 
 </div><br>
 
-# 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=Saleck07&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
-</div>
-
 
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Saleck07&color=red" alt="Total Github views" />
